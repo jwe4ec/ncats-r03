@@ -1,0 +1,62 @@
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_int' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.67  0.80  0.87 
+
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_ext' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.79  0.85  0.90 
+
+[1] "Pearson's correlation between 'mdib_neg_int_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_hd_dat_bl$mdib_neg_int_m and mdib_hd_dat_bl$neuroqol_anx_m
+t = 1.6227, df = 71, p-value = 0.1091
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04282822  0.40169345
+sample estimates:
+      cor 
+0.1891024 
+
+[1] "Pearson's correlation between 'mdib_neg_ext_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_hd_dat_bl$mdib_neg_ext_m and mdib_hd_dat_bl$neuroqol_anx_m
+t = 3.9254, df = 71, p-value = 0.0001981
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2129046 0.5945877
+sample estimates:
+      cor 
+0.4222872 
+
+[1] "Pearson's correlation between 'bbsiq_neg_int_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_hd_dat_bl$bbsiq_neg_int_m and mdib_hd_dat_bl$neuroqol_anx_m
+t = 2.879, df = 71, p-value = 0.005268
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1007506 0.5150761
+sample estimates:
+      cor 
+0.3233234 
+
+[1] "Pearson's correlation between 'bbsiq_neg_ext_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_hd_dat_bl$bbsiq_neg_ext_m and mdib_hd_dat_bl$neuroqol_anx_m
+t = 3.4494, df = 71, p-value = 0.000949
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1629969 0.5601041
+sample estimates:
+      cor 
+0.3788569 
+

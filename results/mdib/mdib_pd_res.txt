@@ -1,0 +1,62 @@
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_int' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.60  0.71  0.79 
+
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_ext' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.69  0.80  0.87 
+
+[1] "Pearson's correlation between 'mdib_neg_int_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_pd_dat_bl$mdib_neg_int_m and mdib_pd_dat_bl$neuroqol_anx_m
+t = 5.1247, df = 83, p-value = 1.909e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3094831 0.6368505
+sample estimates:
+      cor 
+0.4902698 
+
+[1] "Pearson's correlation between 'mdib_neg_ext_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_pd_dat_bl$mdib_neg_ext_m and mdib_pd_dat_bl$neuroqol_anx_m
+t = 6.8578, df = 83, p-value = 1.154e-09
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.4453611 0.7219865
+sample estimates:
+      cor 
+0.6014018 
+
+[1] "Pearson's correlation between 'bbsiq_neg_int_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_pd_dat_bl$bbsiq_neg_int_m and mdib_pd_dat_bl$neuroqol_anx_m
+t = 4.3258, df = 83, p-value = 4.208e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2375136 0.5882730
+sample estimates:
+      cor 
+0.4289255 
+
+[1] "Pearson's correlation between 'bbsiq_neg_ext_m' and 'neuroqol_anx_m' total scores using complete baseline data:"
+
+	Pearson's product-moment correlation
+
+data:  mdib_pd_dat_bl$bbsiq_neg_ext_m and mdib_pd_dat_bl$neuroqol_anx_m
+t = 3.9343, df = 83, p-value = 0.0001725
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2002560 0.5620897
+sample estimates:
+      cor 
+0.3964594 
+
