@@ -5,7 +5,7 @@ Author: Jeremy W. Eberle
 
 ## Background
 
-The present scripts conduct preliminary analyses for [Professor Jessie Gibson](https://www.nursing.virginia.edu/people/js6zn/)'s NCATS R03 (INSERT FOA) submission titled "Evaluating Fit of Psychosocial Interventions for Anxious Populations With Emotion Recognition Deficits."
+The present scripts conduct preliminary analyses for [Professor Jessie Gibson](https://www.nursing.virginia.edu/people/js6zn/)'s NCATS R03 ([PAR-21-121](https://grants.nih.gov/grants/guide/pa-files/PAR-21-121.html)) submission titled "Evaluating Fit of Psychosocial Interventions for Anxious Populations With Emotion Recognition Deficits."
 
 ## Data
 
