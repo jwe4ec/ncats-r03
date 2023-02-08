@@ -23,7 +23,7 @@ The following scripts in the `code` folder are to be run in order.
 
 `1_define_functions.R` defines functions for use in later scripts.
 
-`2_compute_scores.R` imports the MDIB datasets from `data/mdib/bot_cleaned`. It cleans the data, scores selected scales, and outputs scored datasets to `data/mdib/scored` and lists of each scale's items to `data/mdib/helper`.
+`2_compute_scores.R` imports the MDIB datasets from `data/mdib/bot_cleaned`. It cleans the data, scores selected scales, and outputs scored datasets to `data/mdib/scored` and a list of each scale's items to `data/mdib/helper`.
 
 `3_run_mdib_analyses.R` imports the scored MDIB datasets, runs the analyses below, and outputs results to `results/mdib`.
 - TODO
