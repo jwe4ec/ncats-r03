@@ -25,5 +25,7 @@ The following scripts in the `code` folder are to be run in order.
 
 `2_compute_scores.R` imports the MDIB datasets from `data/mdib/bot_cleaned`. It cleans the data, scores selected scales, and outputs scored datasets to `data/mdib/scored` and a list of each scale's items to `data/mdib/helper`.
 
-`3_run_mdib_analyses.R` imports the scored MDIB datasets, runs the analyses below, and outputs results to `results/mdib`.
-- TODO
+`3_run_analyses.R` imports the scored MDIB datasets, runs the analyses below, and outputs results to `results/mdib`.
+- Compute Cronbach's alpha for each MDIB scale at baseline
+- Compute correlations between each MDIB scale and NeuroQoL anxiety scale at baseline
+- Compute correlations between each BBSIQ scale and NeuroQoL anxiety scale at baseline
