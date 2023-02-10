@@ -1,0 +1,39 @@
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_int' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.67  0.80  0.87 
+
+[1] "Unstandardized Cronbach's alpha and 95% bootstrapped CI for 'mdib_neg_ext' items using baseline data and pairwise deletion:"
+
+ 2.5%   50% 97.5% 
+ 0.79  0.85  0.89 
+
+[1] "Pearson's correlations for 2-month test-retest reliability using average item scores and pairwise deletion:"
+
+      metric                   x_var                   y_var    r     t df p ci_ll ci_ul
+ test_retest mdib_neg_int_m.baseline mdib_neg_int_m.followup 0.79 10.19 62 0  0.68  0.87
+ test_retest mdib_neg_ext_m.baseline mdib_neg_ext_m.followup 0.83 11.53 62 0  0.73  0.89
+
+[1] "Pearson's correlations for convergent validity at baseline using average item scores and pairwise deletion:"
+
+     metric                   x_var                    y_var    r     t df     p ci_ll ci_ul
+ convergent mdib_neg_int_m.baseline bbsiq_neg_int_m.baseline 0.66  7.45 71 0.000  0.51  0.77
+ convergent mdib_neg_int_m.baseline           asi_m.baseline 0.37  3.41 71 0.001  0.16  0.56
+ convergent mdib_neg_int_m.baseline       bfne2_8_m.baseline 0.15  1.32 71 0.193 -0.08  0.37
+ convergent mdib_neg_ext_m.baseline bbsiq_neg_ext_m.baseline 0.79 10.78 71 0.000  0.68  0.86
+ convergent mdib_neg_ext_m.baseline           asi_m.baseline 0.66  7.39 71 0.000  0.51  0.77
+ convergent mdib_neg_ext_m.baseline       bfne2_8_m.baseline 0.49  4.80 71 0.000  0.30  0.65
+
+[1] "Pearson's correlations for concurrent validity at baseline using average item scores and pairwise deletion:"
+
+     metric                   x_var                   y_var    r    t df     p ci_ll ci_ul
+ concurrent mdib_neg_int_m.baseline neuroqol_anx_m.baseline 0.19 1.62 71 0.109 -0.04  0.40
+ concurrent mdib_neg_ext_m.baseline neuroqol_anx_m.baseline 0.42 3.93 71 0.000  0.21  0.59
+
+[1] "Pearson's correlations for predictive validity from baseline to follow-up using average item scores and pairwise deletion:"
+
+     metric                   x_var                   y_var    r    t df     p ci_ll ci_ul
+ predictive mdib_neg_int_m.baseline neuroqol_anx_m.followup 0.11 0.91 62 0.367 -0.13  0.35
+ predictive mdib_neg_int_m.baseline     sads_red_m.followup 0.17 1.06 38 0.298 -0.15  0.46
+ predictive mdib_neg_ext_m.baseline neuroqol_anx_m.followup 0.35 2.89 62 0.005  0.11  0.54
+ predictive mdib_neg_ext_m.baseline     sads_red_m.followup 0.43 2.96 38 0.005  0.14  0.66
