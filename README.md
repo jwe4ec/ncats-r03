@@ -30,4 +30,4 @@ The following scripts in the `code` folder are to be run in order.
 - Compute 2-month test-retest correlations for each MDIB scale
 - Compute [convergent validity](https://dictionary.apa.org/convergent-validity) correlations of MDIB scales with BBSIQ scales, ASI scale, and 8-item BNFE-II scale at baseline
 - Compute [concurrent validity](https://dictionary.apa.org/concurrent-validity) correlations of MDIB scales with Neuro-QoL Anxiety scale at baseline
-- Compute [predictive validity](https://dictionary.apa.org/predictive-validity) correlations of MDIB scales at baseline with Neuro-QoL Anxiety scale and SADS (using our reduced set of items) at follow-up
+- Compute [predictive validity](https://dictionary.apa.org/predictive-validity) correlations of MDIB scales at baseline with Neuro-QoL Anxiety scale and SADS scale (using our reduced set of items) at follow-up
