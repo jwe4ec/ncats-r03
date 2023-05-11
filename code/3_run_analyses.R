@@ -120,7 +120,7 @@ mdib_pd_dat_short_wide <- mdib_pd_dat_short_wide[, !(names(mdib_pd_dat_short_wid
 # Analyze test-retest reliability ----
 # ---------------------------------------------------------------------------- #
 
-# Compute 2-month test-retest reliability correlation using average item scores
+# Compute 2-week test-retest reliability correlation using average item scores
 # and pairwise deletion
 
 metric <- "test_retest"
@@ -274,7 +274,7 @@ write_res <- function(results_list) {
   print(round(results_list$mdib_neg_ext_bl_alpha, 2))
   cat("\n")
   
-  print(paste0("Pearson's correlations for 2-month test-retest reliability using ",
+  print(paste0("Pearson's correlations for 2-week test-retest reliability using ",
                "average item scores and pairwise deletion:"))
   cat("\n")
   print(rbind(results_list$mdib_neg_int_m_retest,
