@@ -8,7 +8,7 @@
  2.5%   50% 97.5% 
  0.70  0.80  0.87 
 
-[1] "Pearson's correlations for 2-month test-retest reliability using average item scores and pairwise deletion:"
+[1] "Pearson's correlations for 2-week test-retest reliability using average item scores and pairwise deletion:"
 
       metric                   x_var                   y_var    r    t df p ci_ll ci_ul
  test_retest mdib_neg_int_m.baseline mdib_neg_int_m.followup 0.70 8.35 72 0  0.56  0.80
