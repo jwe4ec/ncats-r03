@@ -13,7 +13,7 @@ The present scripts import deidentified datasets (stored privately on UVA Box) f
 
 ### MDIB Development Study
 
-`final HD Aim 1 data_deid_2023-01-09_1525.csv` (collected INSERT-INSERT) and `final PD Aim 1 data_deid_2022-12-08_1339.csv` (collected 11/12/21-11/1/22) in `data/mdib/bot_cleaned` are long-format data Dr. Gibson collected via a RedCap survey of patients with Huntington's disease (HD) and Parkinson's disease (PD), respectively, administered at two time points 2 weeks apart.
+`final HD Aim 1 data_deid_2023-01-09_1525.csv` (collected 6/2021-1/2023) and `final PD Aim 1 data_deid_2022-12-08_1339.csv` (collected 11/12/2021-11/1/2022) in `data/mdib/bot_cleaned` are long-format data Dr. Gibson collected via a RedCap survey of patients with Huntington's disease (HD) and Parkinson's disease (PD), respectively, administered at two time points 2 weeks apart.
 
 The study's purpose is to develop the Movement Disorders Interpretation Bias Scale (MDIB). Bot responses have already been cleaned from both datasets by Dr. Gibson and a graduate research assistant.
 
